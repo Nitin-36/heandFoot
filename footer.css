@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Hind", sans-serif;
+    display: flex;
+align-items: end;
+height: 100vh ;
+
+}
+
+footer{
+ background-color: black;
+color: white;
+justify-content: space-between;
+display: flex;
+padding: 40px 20px;
+}
+
+#left{
+    width: 60%;
+    display: flex;
+}
+
+#right{
+    width: 40%;
+    display: flex;
+    border-left:2px solid gray ;
+
+}
+ul{
+    list-style: none;
+margin: 0px ;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+h4{
+    color: grey;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto Slab", serif;
+
+}
